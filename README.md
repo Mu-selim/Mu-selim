@@ -11,6 +11,8 @@
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">]()
 [<img align="left" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">]()
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">]()
+[<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png">]()
+[<img align="left" width="40px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">]()
 .
 
 ## Contact With Me
