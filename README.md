@@ -7,7 +7,7 @@
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/m-20x/)
 
 ## Languages And Tools
-[<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org)
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org)
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">](https://docs.microsoft.com/en-us/dotnet/csharp)
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">](https://jupyter.org/)
