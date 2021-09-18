@@ -26,7 +26,7 @@
 .
 
 ## My GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mu-selim&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mu-selim&langs_count=6&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-selim&langs_count=6&layout=compact&theme=dracula)](https://github.com/Mu-selim?tab=repositories)
 
