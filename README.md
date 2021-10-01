@@ -14,7 +14,7 @@
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png">](https://ubuntu.com)
 [<img align="left" width="30px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">](https://www.linux.org)
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png">](https://en.wikipedia.org/wiki/HTML)
-[<img align="left" width="30px" src="https://png2.cleanpng.com/sh/6900651ed92984c515b3351b467ea0d5/L0KzQYm3V8A1N6RnjJH0aYP2gLBuTfNie5RmfNt3Zz32hMrzhb10cJZqjOU2bHBqf37qkCM0NZl5hd42d3XlPbXslvVtd6FyRadrM3S3QLK8UMg0O2k6RqQBOEe8RYK4UcU0OGg5SKs5MUC2Q4e1kP5o/kisspng-cascading-style-sheets-logo-css3-html-web-developm-5b3d40a5083385.2687951115307409010336.png">](https://en.wikipedia.org/wiki/CSS)
+[<img align="left" width="30px" src="https://banner2.cleanpng.com/20180704/qpr/kisspng-cascading-style-sheets-logo-css3-html-web-developm-5b3d40a4d013e0.7927254715307409008523.jpg">](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">](https://www.javascript.com)
 .
 
@@ -27,7 +27,6 @@
 
 ## My GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mu-selim&langs_count=6&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-selim&langs_count=10&layout=compact&theme=dracula)](https://github.com/Mu-selim?tab=repositories)
 
 
