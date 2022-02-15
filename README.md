@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web developmet, data Science, machine learning, ..., etc
 - 🌱 I’m currently learning building web apps and web development
 - 💞️ I’m looking to collaborate on web and data science projects
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/m-20x/)
+- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/m-20x)
 
 ## Languages And Tools
 [<img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org)
