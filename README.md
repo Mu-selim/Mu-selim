@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m a Computer engineering student
 - 🔭 I was a Software intern at IBM and ITI.
-- 🌱 I’m currently learning building web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web and data science projects
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 - 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/m-20x)
