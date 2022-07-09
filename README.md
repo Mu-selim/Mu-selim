@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, I'm Muhammad Selim</h1>
 <h3 align="center">Interested in Web Development and Data Science</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mu-selim&label=Profile%20views&color=0e75b6&style=flat" alt="Mu-selim" />
-		   <img src="https://badges.pufler.dev/repos/Mu-selim" alt="Mu-selim" />
 		   <img src="https://img.shields.io/github/followers/Mu-selim?label=Followers" alt="Mu-selim" />
 </p>
 <br>
