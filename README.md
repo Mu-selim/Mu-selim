@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Muhammad Selim</h1>
-<h3 align="center">Interested in Web Development and Data Science</h3>
+<h3 align="center">Interested in Web Development</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mu-selim&label=Profile%20views&color=0e75b6&style=flat" alt="Mu-selim" />
 		   <img src="https://img.shields.io/github/followers/Mu-selim?label=Followers" alt="Mu-selim" />
 </p>
@@ -42,15 +42,14 @@
 </p>
 
 ## 📊 MY Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mu-selim&theme=tokyonight_duo" alt="Mu-selim" /></p>
-<br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Mu-selim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mu-selim&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
   </a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mu-selim&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mu-selim&theme=tokyonight_duo" alt="Mu-selim" /></p>
+<br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
   
