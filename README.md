@@ -57,12 +57,6 @@
 <summary><b>⚡ Git profile Trophies</b></summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mu-selim&layout=compact&theme=algolia" alt="Muhammad Selim" /></a> </p>
-
-----
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/Mu-selim"><img alt="Muhammad Selim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mu-selim&custom_title=Muhammad%20Selim%27s%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
 
 
