@@ -7,7 +7,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - 👋 Hi, I’m a Computer engineering student
-- 🔭 I was a Software intern at IBM, Gmind, and ITI, [my resume](https://www.muhammadselim.tech/resume/resume.pdf).
+- 🔭 I was a Software intern at IBM, Gmind, and ITI, [my resume]([https://www.muhammadselim.tech/resume/resume.pdf](https://www.muhammadselim.tech/public/resume/Muhammad%20Selim%20Resume.pdf)).
 - 🌱 I’m currently learning web development, [my personal portfolio](https://www.muhammadselim.tech/).
 - 💞️ I’m looking to collaborate on web projects
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
