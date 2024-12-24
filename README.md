@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Muhammad Selim</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Engineer I @Noon</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Mu-selim&label=Profile%20views&color=blueviolet&style=flat&abbreviated=true" alt="Mu-selim" />
 <img src="https://img.shields.io/github/followers/mu-selim?style=social&color=blueviolet" alt="Mu-selim" />
@@ -7,13 +7,6 @@
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
-- 👋 Hi, I’m a Junior Frontend Developer.
-- 🔭 I got internship at **MYM**, **Gmind**, and **ITI**.
-- 🌱 I’m currently learning frontend development using **React**, **Tailwindcss**, **Nextjs**, and their ecosystem.
-- 💞️ I’m looking to collaborate on web projects, Here is my [portfolio](https://muhammadselim.pages.dev).
-- I’m currently open for: `An Intern` or a new `job opportunity`.
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/selimjs)
 
 ## 📩 Connect with me
 
