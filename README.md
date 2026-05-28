@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Muhammad Selim</h1>
-<h3 align="center">Software Engineer I @Noon</h3>
+<h3 align="center">Software Engineer II @Noon</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Mu-selim&label=Profile%20views&color=blueviolet&style=flat&abbreviated=true" alt="Mu-selim" />
 <img src="https://img.shields.io/github/followers/mu-selim?style=social&color=blueviolet" alt="Mu-selim" />
@@ -8,12 +8,10 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-## 📩 Connect with me
+Mid-Level Frontend Engineer with 2+ years of experience building scalable web and mobile applications.
+Specialized in React, Next.js, React Native, TypeScript, and modern frontend architecture with a strong focus on performance, DX, localization, and UX.
+Currently working in e-commerce and marketplace engineering at noon, developing large-scale customer-facing products and internal systems.
 
-<p align="center">
-<a href="mailto:muhamadselim70@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/selimjs" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ## 🛠 Languages and Tools
 
@@ -44,18 +42,14 @@
 
 ## 📊 MY Github Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mu-selim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mu-selim&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mu-selim&langs_count=6&show_icons=true&locale=en&theme=tokyonight&layout=donut-vertical" alt="mu-selim" height="230px"/>
-<br/>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mu-selim&theme=tokyonight_duo" alt="Mu-selim" /></p>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
   
 ----
-<summary><b>⚡ Git profile Trophies</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mu-selim&layout=compact&theme=algolia" alt="Muhammad Selim" /></a> </p>
-<br/>
+
+## 📩 Connect with me
+
+<p style="display:flex; align-items: center; gap:8px;">
+<a href="mailto:muhamadselim70@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/selimjs" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
